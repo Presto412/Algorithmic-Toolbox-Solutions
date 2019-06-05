@@ -1,0 +1,1 @@
+- Quicksort partitioning [here](https://algs4.cs.princeton.edu/lectures/23DemoPartitioning.pdf)
